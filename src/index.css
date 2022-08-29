@@ -4,7 +4,7 @@
 body {
   margin: 0;
  
-  font-family: 'Sans-serif', cursive;
+  font-family: 'Sans-serif', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -167,7 +167,7 @@ background-image: linear-gradient(315deg, #76daff 0%, #fcd000 74%);
   min-width: 20%;
   margin-top: 1rem;
   
-  font-family: 'Satisfy', cursive;
+  font-family: 'aerial', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   
 }
 button:hover{
@@ -177,7 +177,7 @@ button:hover{
 .pokeinfo{
   margin: 0 25px;
   
-  font-family: 'Satisfy', cursive;
+  font-family: 'Satisfy', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
 }
 .pokeinfo:hover{
